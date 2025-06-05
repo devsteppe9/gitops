@@ -11,4 +11,3 @@ spec:
       port: 80
       targetPort: 9090
       NodePort: 31003
-  type: LoadBalancer
